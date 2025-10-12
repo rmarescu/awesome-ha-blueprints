@@ -52,6 +52,12 @@ blueprint:
             - integration: zha
               manufacturer: Philips
               # **TBConfirmed** model:
+            - integration: zha
+              manufacturer: Signify Netherlands B.V.
+              model: ROM001
+            - integration: zha
+              manufacturer: Signify Netherlands B.V.
+              model: RDM003
             - integration: deconz
               manufacturer: Philips
               # **TBConfirmed** model:
